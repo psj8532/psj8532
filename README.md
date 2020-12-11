@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Vue.js and React Native
-- 💬 Portfolio: psj8532.github.io
+- 💬 Portfolio: https://psj8532.github.io/
 - 📫 How to reach me: psj8532@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

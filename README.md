@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.js and React Native
 - 💬 Portfolio: https://psj8532.github.io/
 - 📫 How to reach me: psj8532@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ My Blog: https://velog.io/@psj8532
 

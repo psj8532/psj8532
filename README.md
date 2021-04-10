@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web Development Project
-- 🌱 I’m currently learning Vue.js and React Native
-- 💬 Portfolio: https://www.notion.so/Sejin-Park-e4a903deb462400f8755762ae3f6e757
-- 📫 How to reach me: psj8532@naver.com
-- ⚡ My Blog: https://velog.io/@psj8532
+- 🌱 관심있는 분야: 웹 개발
+- 💬 포트폴리오: https://www.notion.so/Sejin-Park-e4a903deb462400f8755762ae3f6e757
+- ⚡ 블로그: https://velog.io/@psj8532
+- 📫 이메일: psj8532@naver.com
+
 
 ### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psj8532&layout=compact)

@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 관심있는 분야: 웹 개발
-- 💬 포트폴리오: https://www.notion.so/Sejin-Park-e4a903deb462400f8755762ae3f6e757
+- 💬 포트폴리오: https://lively-harp-324.notion.site/Sejin-Park-e4a903deb462400f8755762ae3f6e757?pvs=4
 - ⚡ 블로그: https://velog.io/@psj8532
 - 📫 이메일: psj8532@naver.com
 
